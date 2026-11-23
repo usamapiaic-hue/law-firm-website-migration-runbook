@@ -1,0 +1,10 @@
+site_name: Law Firm Website Migration Runbook
+site_description: Step-by-step runbook for moving or redesigning a law firm website without losing Google rankings, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-website-migration-runbook.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - Migration runbook: index.md
+markdown_extensions:
+  - tables
